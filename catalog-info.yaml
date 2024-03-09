@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "teste-banco-postgress-local"
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
